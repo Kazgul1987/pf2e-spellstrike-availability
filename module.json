@@ -1,6 +1,5 @@
 {
   "id": "pf2e-spellstrike-availability",
-  "name": "pf2e-spellstrike-availability",
   "title": "PF2e Spellstrike Availability",
   "description": "Zeigt einen Effekt an, wenn Spellstrike verfügbar ist, und entfernt ihn nach Verwendung.",
   "version": "1.0.0",
@@ -33,6 +32,6 @@
   ],
   "system": ["pf2e"],
   "url": "https://github.com/Kazgul1987/pf2e-spellstrike-availability",
-  "manifest": "https://github.com/Kazgul1987/pf2e-spellstrike-availability/blob/main/module.json",
+  "manifest": "https://github.com/Kazgul1987/pf2e-spellstrike-availability/main/module.json",
   "download": "https://github.com/Kazgul1987/pf2e-spellstrike-availability/releases/latest/download/module.zip"
 }
