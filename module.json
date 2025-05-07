@@ -10,6 +10,18 @@
   "esmodules": ["main.js"],
   "scripts": [],
   "styles": [],
+   "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "5.0.0",
+          "verified": "6.1.0"
+        }
+      }
+    ]
+  },
   "packs": [
     {
       "name": "spellstrike-effects",
